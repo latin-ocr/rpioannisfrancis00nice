@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rpioannisfrancis00nice_0320.png"; bbox 0 0 2498 3898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 192 2615 222 3066">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 192 2615 222 3066">
+     <span class='ocr_line' id='line_1_1' title="bbox 192 2671 203 3027; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 195 3018 199 3027; x_wconf 80' lang='grc' dir='ltr'><em>ι</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 195 2985 198 2994; x_wconf 87' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 194 2943 199 2951; x_wconf 71' lang='lat'><em>›</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 193 2870 203 2900; x_wconf 63' lang='lat' dir='ltr'>ab</span> <span class='ocrx_word' id='word_1_5' title='bbox 192 2835 203 2855; x_wconf 67' lang='grc' dir='ltr'>,ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 196 2744 200 2754; x_wconf 59' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_7' title='bbox 197 2671 203 2703; x_wconf 72' lang='grc' dir='ltr'>ι.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 203 2615 222 3066; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 204 2707 222 3066; x_wconf 49' lang='grc' dir='ltr'>..εἰὶνιίιιῒῖὶιιιιῐὶυι</span> <span class='ocrx_word' id='word_1_9' title='bbox 206 2680 213 2691; x_wconf 84' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 203 2615 213 2669; x_wconf 61' lang='grc' dir='ltr'>σίν</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 224 2657 267 3082">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 224 2657 267 3082">
+     <span class='ocr_line' id='line_1_3' title="bbox 224 2952 241 3038; textangle 180"><span class='ocrx_word' id='word_1_11' title='bbox 238 3032 241 3038; x_wconf 84' lang='grc'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 224 2952 232 2956; x_wconf 76' lang='grc'><strong>.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 236 2657 267 3082; textangle 180"><span class='ocrx_word' id='word_1_13' title='bbox 259 3079 261 3082; x_wconf 75' lang='grc'>,</span> <span class='ocrx_word' id='word_1_14' title='bbox 258 3056 267 3063; x_wconf 58' lang='lat'>0</span> <span class='ocrx_word' id='word_1_15' title='bbox 258 3030 265 3040; x_wconf 60' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_16' title='bbox 257 3011 263 3017; x_wconf 86' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 255 2978 266 2999; x_wconf 61' lang='lat' dir='ltr'>s.</span> <span class='ocrx_word' id='word_1_18' title='bbox 248 2895 266 2966; x_wconf 43' lang='lat' dir='ltr'>⁴591*st</span> <span class='ocrx_word' id='word_1_19' title='bbox 236 2706 265 2879; x_wconf 44' lang='grc' dir='ltr'>οιιῧᾎὶιυιολ..</span> <span class='ocrx_word' id='word_1_20' title='bbox 258 2657 263 2671; x_wconf 59' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2498 3898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2498 3898">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2498 3898; textangle 180"><span class='ocrx_word' id='word_1_21' title='bbox 0 0 2498 3898; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

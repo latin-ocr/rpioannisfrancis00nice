@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rpioannisfrancis00nice_0008.png"; bbox 0 0 2498 3898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 1795 2148 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 1795 2148 2104">
+     <span class='ocr_line' id='line_1_1' title="bbox 650 1795 1855 1877; baseline 0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 650 1795 969 1877; x_wconf 71' lang='lat' dir='ltr'>Diqitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 1003 1795 1086 1877; x_wconf 81' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 1114 1795 1229 1860; x_wconf 72' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1266 1795 1546 1860; x_wconf 68' lang='lat' dir='ltr'>{memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1574 1795 1855 1860; x_wconf 64' lang='lat' dir='ltr'>Archiv&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 779 1909 1722 1991; baseline 0 -19"><span class='ocrx_word' id='word_1_6' title='bbox 779 1909 834 1972; x_wconf 78' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 867 1910 1042 1974; x_wconf 82' lang='grc'>2010</span> <span class='ocrx_word' id='word_1_8' title='bbox 1072 1909 1219 1974; x_wconf 72' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1251 1909 1527 1991; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1558 1909 1722 1974; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 357 2021 2148 2104; baseline 0.001 -19"><span class='ocrx_word' id='word_1_11' title='bbox 357 2022 713 2087; x_wconf 70' lang='lat' dir='ltr'>Hesearch</span> <span class='ocrx_word' id='word_1_12' title='bbox 749 2022 1021 2104; x_wconf 63' lang='lat' dir='ltr'>Libram,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1054 2022 1197 2087; x_wconf 71' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_14' title='bbox 1229 2021 1429 2104; x_wconf 78' lang='lat' dir='ltr'>Getty</span> <span class='ocrx_word' id='word_1_15' title='bbox 1464 2022 1820 2087; x_wconf 69' lang='lat' dir='ltr'>Hesearch</span> <span class='ocrx_word' id='word_1_16' title='bbox 1859 2022 2148 2087; x_wconf 69' lang='lat' dir='ltr'>institute</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 251 3629 2252 3711">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 251 3629 2252 3711">
+     <span class='ocr_line' id='line_1_4' title="bbox 251 3629 2252 3711; baseline 0.001 -19"><span class='ocrx_word' id='word_1_17' title='bbox 251 3629 2252 3711; x_wconf 64' lang='lat' dir='ltr'>http:llwwwarchiveosqsdetailslrpioannisfrancisOOnice</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
